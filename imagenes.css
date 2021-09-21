@@ -1,0 +1,51 @@
+h1{
+    color: teal;
+   /* Sombra normal */
+text-shadow: -5px -4px 12px white
+
+}
+
+
+img{
+    border:1px solid green;
+    height: 135.23px;
+    
+}
+
+.tarjeta{
+    background-color: yellow ;
+    width: 200px;
+    height:250px;
+    border: 2px solid black;
+    padding:10px;
+    margin:5px;
+
+}
+.parte1{
+    display:flex;
+    justify-content: center;
+}
+.tarjeta2{
+    background-color: yellow ;
+    width: 200px;
+    height:250px;
+    border: 2px solid black;
+    padding:10px;
+    margin:5px;
+}
+.parte2{
+    display:flex;
+    justify-content: center;
+}
+.parte3{
+    display:flex;
+    justify-content: center;
+}
+.tarjeta3{
+    background-color: yellow ;
+    width: 200px;
+    height:250px;
+    border: 2px solid black;
+    padding:10px;
+    margin:5px;
+}
